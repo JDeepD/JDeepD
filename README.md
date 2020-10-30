@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on anything in my scope
 - 🤔 I’m looking for help with [Open-Palm](https://github.com/Nova-Striker/Open-Palm)
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nova-striker&show_icons=true&theme=dracula)
+![jdz github stats](https://github-readme-stats.vercel.app/api?username=nova-striker&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nova-striker)](https://github.com/anuraghazra/github-readme-stats)
