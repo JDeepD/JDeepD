@@ -1,5 +1,4 @@
 
-[![HitCount](http://hits.dwyl.com/Nova-Striker/Nova-Striker.svg)](http://hits.dwyl.com/Nova-Striker/Nova-Striker)
 
 - 🔭 I’m currently working on [Open-Palm](https://github.com/Nova-Striker/Open-Palm) and [Python-4-Beginners](https://github.com/Nova-Striker/Python-4-Beginners)
 - 🌱 I’m currently learning Python , C++ , Vim Script and Bash
