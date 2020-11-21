@@ -7,4 +7,4 @@
 ---
 ![jdz github stats](https://github-readme-stats.vercel.app/api?username=JDeepD&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JdeepD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JdeepD&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
