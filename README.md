@@ -11,6 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JDeepD&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdeepd&theme=highcontrast)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdeepd&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&card_width=500)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JDeepD&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
