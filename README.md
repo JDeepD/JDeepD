@@ -10,7 +10,7 @@
     <li>🤝 <strong>ex-GDSC Cloud Moderator</strong>: Conducted workshops on JavaScript, Git, and Web Dev for 200+ students. Always open to collaborations!</li>
     <li>🚀 <strong>Projects</strong>: Built Aquintel (oil-spill detection system with Isolation Forest models) and a blazing-fast NextJS portfolio with Redis-powered comments.</li>
     <li>🛠️ <strong>Tech Stack</strong>: JavaScript/TypeScript, Python, React/NextJS, AWS, SQL, Git. Strong in DSA and system design.</li>
-    <li>💖 When I'm not coding, I’m probably experimenting with new tools</li>
+    <li>💖 When I'm not coding, I’m probably experimenting with new tools.</li>
   </ul>
 
   <p style="font-size: 16px; color: #333; border-top: 2px solid #eee; padding-top: 15px; margin-top: 20px;">
