@@ -1,5 +1,4 @@
 <div style="font-family: 'Arial', sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6;">
-  <strong>I have migrated my repositories from Github to Codeberg.</strong>
   Find my profile at <a href="https://codeberg.org/JDeepD">https://codeberg.org/JDeepD</a>
   <br /> 
   <br />
